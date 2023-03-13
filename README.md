@@ -5,11 +5,11 @@
 
 **Talking about Personal Stuffs:**
 
-<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/TimeUnit-Services/.github/master/.resources/git-header.svg" />
+<img width="55%" align="right" alt="Github" src="https://media.istockphoto.com/id/1137735902/vector/software-development-programming-laptop.jpg?s=612x612&w=0&k=20&c=0JmLIfnuHrmkJRhfjVq3ZSqpvqFuAVQ9-k93Su9nGTk="/>
 
 - 👨🏽‍💻 I’m currently working on MineGames Network;
 - 💬 Ask me about anything, I am happy to help;
-- 📫 Business inquiries: TimeUnit#1349
+- 📫 Business inquiries: TimeUnit#1349;
 
 **Languages and Tools:** 
 
