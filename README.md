@@ -15,7 +15,7 @@
 
 <p>
   <a href="https://github.com/TimeUnit-Services">
-    <img width="55%" align="right" alt="TimeUnit's github stats" src="https://github-readme-stats.vercel.app/api?username=TimeUnit-Services&show_icons=true&hide_border=true" />
+    <img width="40%" align="right" alt="TimeUnit's github stats" src="https://github-readme-stats.vercel.app/api?username=TimeUnit-Services&show_icons=true&hide_border=true" />
   </a>
   
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
