@@ -5,7 +5,7 @@
 
 **Talking about Personal Stuffs:**
 
-- 👨🏽‍💻 I’m currently working on HolyPvP Network;
+- 👨🏽‍💻 I’m currently working on CometMC Network;
 - 💬 Ask me about anything, I am happy to help;
 - 📫 Business inquiries: TimeUnit#1349;
 
