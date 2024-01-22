@@ -35,6 +35,5 @@
 
 <p align="center">
   <img alt="HitCount" src="http://hits.dwyl.com/TimeUnit-Services/TimeUnit-Services.svg" />
-  <img alt="visitors" src="https://visitor-badge.glitch.me/badge?page_id=TimeUnit-Services.TimeUnit-Services" />
   <img alt="ViewCount" src="https://views.whatilearened.today/views/github/TimeUnit-Services/TimeUnit-Services.svg" />
 </p>
