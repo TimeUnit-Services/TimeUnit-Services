@@ -5,9 +5,9 @@
 
 **Talking about Personal Stuffs:**
 
-- 👨🏽‍💻 I’m currently working on @SaifedGames;
+- 👨🏽‍💻 I’m currently working on @MineGamesUS;
 - 💬 Ask me about anything, I am happy to help;
-- 📫 Business inquiries: TimeUnit#1349;
+- 📫 Business inquiries: @TimeUnitDev on Telegram;
 
 **Languages and Tools:** 
 
