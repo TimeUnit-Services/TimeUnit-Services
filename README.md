@@ -53,6 +53,5 @@
 </div>
 <br/>
 <div align="center">
-  <img alt="HitCount" src="http://hits.dwyl.com/TimeUnit-Services/TimeUnit-Services.svg" />
-  <img alt="ViewCount" src="https://views.whatilearened.today/views/github/TimeUnit-Services/TimeUnit-Services.svg" />
+  <img src="https://komarev.com/ghpvc/?username=TimeUnit-Services&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views" />
 </div>
