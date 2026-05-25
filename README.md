@@ -1,39 +1,58 @@
-## Hi, I'm TimeUnit (Jose Gambarte), a Developer 🚀 from Argentina.
+<div align="center">
+  <h2>Hi, I'm Jose Gambarte (TimeUnit) 👋</h2>
+  <p><em>A passionate Developer from Argentina 🚀</em></p>
 
-[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/TimeUnit-Services)
-[![Instagram](https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/jose.gambarte/)
+  <p>
+    <a href="https://github.com/TimeUnit-Services">
+      <img src="https://img.shields.io/badge/-Github-181717?style=flat-square&logo=Github&logoColor=white" alt="GitHub" />
+    </a>
+    <a href="https://www.instagram.com/jose.gambarte/">
+      <img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" />
+    </a>
+  </p>
+</div>
 
-**Talking about Personal Stuffs:**
+---
 
-- 👨🏽‍💻 I’m currently working on @MineGamesUS;
-- 💬 Ask me about anything, I am happy to help;
-- 📫 Business inquiries: @TimeUnitDev on Telegram;
+### 👨🏽‍💻 About Me
 
-**Languages and Tools:** 
+- 🔭 I’m currently working on **@AstroGamesUS** and developing **AstralMC Network**.
+- 🎓 Studying **Tecnicatura Universitaria en Programación** at UTN.
+- 👨‍🏫 Recently designed the curriculum and materials for an introductory **Python** course.
+- 💬 Ask me about: **Java, Kotlin, Minecraft Server Development (HCF/NMS), and Linux/Ubuntu systems**.
+- 📫 Business inquiries: **@TimeUnitDev** on Telegram.
 
-<p>
+---
+
+### 🛠️ Languages and Tools
+
+<div align="center">
+  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
+  <img src="https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin"/>
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python"/>
+  <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
+  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React"/>
+  <br />
+  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu"/>
+  <img src="https://img.shields.io/badge/bash-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash"/>
+  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <br />
+  <img src="https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+  <img src="https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white" alt="Redis"/>
+  <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
+</div>
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
   <a href="https://github.com/TimeUnit-Services">
-    <img width="55%" align="right" alt="TimeUnit's github stats" src="https://github-readme-stats.vercel.app/api?username=TimeUnit-Services&show_icons=true&hide_border=true" />
+    <img alt="TimeUnit's GitHub Streak" src="https://streak-stats.demolab.com?user=TimeUnit-Services&theme=transparent&hide_border=true" />
   </a>
-  
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"></code>
-  <br />
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/gradle/gradle-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/apache/apache-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/json/json-ar21.svg"></code>
-  <br />
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/redis/redis-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg"></code>
-  <br />
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/yaml/yaml-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-ar21.svg"></code>
-</p>
-
-<p align="center">
+</div>
+<br/>
+<div align="center">
   <img alt="HitCount" src="http://hits.dwyl.com/TimeUnit-Services/TimeUnit-Services.svg" />
   <img alt="ViewCount" src="https://views.whatilearened.today/views/github/TimeUnit-Services/TimeUnit-Services.svg" />
-</p>
+</div>
